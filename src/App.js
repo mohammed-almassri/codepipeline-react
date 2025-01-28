@@ -5,6 +5,9 @@ function App() {
   return (
     <div className="App">
       <h1>Hello World</h1>
+      <p>
+        This will be deployed to CodePipeline.
+      </p>
     </div>
   );
 }
