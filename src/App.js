@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>Hello World</h1>
       <p>
-        This will be deployed to CodePipeline. 😅
+        This will be deployed to CodePipeline.
       </p>
     </div>
   );
